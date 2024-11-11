@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.company{
+    display: flex;
+    padding-left: 5rem;
+    padding-top: 3rem;
+    gap: 15rem;
+}
+ul,li{
+    display: flex;
+    gap: 5rem
+}
+a{
+    text-decoration: none;
+    color: #333333;
+}
+.certification{
+    padding-left: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 20rem;
+    font-family: "Roboto", serif;
+}
+.company-text{
+    color: #BDBDBD;
+    font-family: "Roboto", serif;
+    font-size:64px ;
+    font-weight: 300;
+    line-height: 64px;
+}
+.cert-text{
+    color: #333333;
+    font-family:"Roboto", serif ;
+    font-size:64px ;
+    font-weight:700 ;
+    line-height: 64px;
+}
+.media{
+    margin-top: 7rem;
+    background-color: #2C2C2C;
+    display: flex;
+    padding-left: 5rem;
+    padding-top: 3rem;
+    gap: 6rem;
+    color: white;
+    height: 417px;
+}
+.social{
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}

@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.digital{
+    display: flex;
+    padding-left: 5rem;
+    padding-top: 3rem;
+    gap: 15rem;
+}
+ul,li{
+    display: flex;
+    gap: 5rem
+    
+}
+a{
+    text-decoration: none;
+    color: #333333;
+}
+.project{
+    display: flex;
+    margin-top: 3rem;
+    padding-left: 5rem;
+    gap: 10rem;
+}
+.lorum{
+    margin-top: 25rem;
+    font-family:"Roboto", serif ;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 64px;
+    color: #BDBDBD;
+    
+
+
+
+}
+.loram{
+    font-family: "Roboto", serif;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #333333;
+    
+
+}
+
+.frame{
+    display: flex;
+    gap: 2rem;
+    margin-top: 4rem;
+}
+
+.slide{
+    margin-top: 5rem;
+}
+
+.rame{
+    position: relative;
+    bottom: 3rem;
+}
+
+.rec{
+    display: flex;
+    gap: 3rem;
+    padding-left: 5rem;
+    padding-right: 10rem;
+    margin-top: 3rem;
+}
+
+.angl{
+    margin-top: 2rem;
+}
+
+.about{
+    margin: 1rem;
+    font-family: "Roboto", serif;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 64px;
+    height: 64px;
+    width: 168px;
+    color: #BDBDBD;
+}
+
+.para{
+    margin-top: 1rem;
+    font-size:"Roboto", serif ;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.one{
+    display: flex;
+    gap: 1rem;
+}
+
+.two{
+    display: flex;
+    gap: 1rem;
+}
+
+.three{
+    display: flex;
+    padding-left: 5rem;
+    padding-right: 10rem;
+    margin-top: 3rem;
+}
+
+.main{
+    padding-left: 5rem;
+    margin-top: 3rem;
+    font-family:"Roboto", serif ;
+    /* font-size: 64px; */
+    font-weight: 300;
+    line-height: 64px;
+    color: #BDBDBD;
+    height: 64px;
+}
+
+.view{
+    background-image: url(Rectangle\ 17@2x.png);
+    width: 570px;
+    height: 255px;
+    padding-left: 9rem;
+    padding-top: 8rem;
+}
+
+.reed{
+    display: flex;
+    padding-left: 5rem;
+    margin-top: 3rem;
+}
+
+.ject{
+    padding-left: 5rem;
+    margin-top: 6rem;
+    color: #BDBDBD;
+    font-family:"Roboto", serif ;
+    font-weight: 300;
+    font-size: 64px;
+}
+
+.top{
+    display: flex;
+    padding-left: 5rem;
+    gap: 1rem;
+}
+.all{
+    margin-left: 62.5rem;
+    cursor: pointer;
+}
+
+.place{
+    background-color: #F3F3F3;
+    width: 391px;
+    height: 40px;
+    padding-left: 1rem;
+}
+.coment{
+    width: 391px;
+    height: 140px;
+    background-color: #F3F3F3;
+    padding-bottom: 5rem;
+    padding-left: 1rem;
+}
+
+.guy{
+    display: flex;
+    padding-left: 5rem;
+    margin-top: 2rem;
+}
+.uss{
+    padding-left: 5rem;
+    margin-top: 3rem;
+    color: #BDBDBD;
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 300;
+    line-height: 16px;
+    
+
+}
+
+.elev{
+    margin-top: 2rem;
+    padding-left: 5rem;
+}
+
+.media{
+    margin-top: 7rem;
+    display: flex;
+    background-color: #2C2C2C;
+    width: ;
+    height: 417px;
+    padding-left: 5rem;
+    padding-top: 3rem;
+    gap: 6rem;
+    color: white;
+}
+
+.social{
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}

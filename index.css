@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.number-one{
+    background-color: rgb(187, 255, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    padding: 50px 100px;
+    width: 100%;
+}
+.nav-bar{
+padding-right: 100px;
+}
+.nav-item{
+    /* padding-left: 10px; */
+}
+ul,li{
+    display: inline; 
+    align-items: center;
+    padding: 22px;
+    font-size: 12px;
+}
+a{
+    /* text-decoration:; */
+    color:black;
+    padding: 10px 7px;
+    margin: 5px;
+}
+.underline{
+    border-bottom: 10px black ;
+
+}
+.group1{
+background-color: red;
+display: flex;
+padding-left: 50px;
+/* width: 100%; */
+justify-content: space-between;
+margin: 55px;
+padding-left: 25px;
+}
+.group1-text{
+padding-top: 350px;
+
+}
+
+.Frame{
+    padding-top: 75px;
+}
+.slide-box{
+    margin-top: 100px;
+    width: ;
+    
+}
+.view{
+    margin-bottom: 100px;
+    position: absolute;
+    top:57rem
+}
+.group2{
+background-color: yellow;
+padding-left: 50px;
+display: flex;
+padding-right: 100px;
+align-items: center;
+justify-content: space-around;
+
+}
+.group2-pic{
+/* padding-left: 10px; */
+}
+.group2-pic2{
+margin: 40px;
+}
+.group2-text{
+    margin: 50px;
+
+}
+.view2{
+     margin-top:100px;
+     top: 50rem;
+     /* cursor: pointer; */
+}
+h1{
+    font-weight: 300;
+    height: 64px;
+    font-family: "Roboto", sans-serif;
+    line-height: 64px;
+    width: 168px;
+    height: 64px;
+}
+.group2-text p{
+    font-family:"Roboto", sans-serif ;
+    font-weight: 300;
+    font-size: 16px;
+    width: 400px;
+    height: 200px;
+}
+.mission-section{
+    background-color: green;
+    font-family:"Roboto", sans-serif ;
+    padding: 50px 100px;
+}
+.mission-text{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.mission-section h2{
+    font-size: 2em;
+    font-weight: lighter;
+    color: #BDBDBD;
+    margin-bottom: 10px;
+    width: 880px;
+    line-height: 64px;
+}
+.mission-text p{
+    width: 45%;
+    font-size: 1em;
+    line-height: 1.5;
+
+}
+.project-section{
+/* display: flex; */
+
+}
+.project-grid{
+    display: flex;
+}
+.project-item p{
+    background-color: #333333;
+    
+
+}
+.project-item a{
+    background-color: #333333;
+    
+}
+p{
+  color: white;
+}
+a{
+    color: white;
+}

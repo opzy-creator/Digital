@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sample{
+    display: flex;
+    padding-left: 5rem;
+    padding-top: 3rem;
+    gap: 15rem;
+}
+ul,li{
+    display: flex;
+    gap: 5rem;
+}
+a{
+    color: #333333;
+}
+.our{
+    padding-left: 5rem;
+    margin-top: 3rem;
+}
+.project-one{
+    display: flex;
+    padding-left: 5rem;
+    padding-right: 10rem;
+    gap: 2rem;
+    background-color:  #FBFBFB;
+    margin-bottom: 3rem;
+    
+}
+.sample-one{
+    margin: 1rem;
+    margin-bottom: 5rem;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 46.88px;
+    text-align: left;
+    color: #BDBDBD;
+    height: 47px;
+
+}
+.text-one{
+    margin: 1rem;
+    margin-bottom: 5rem;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+    text-align: left;
+
+}
+.our{
+    margin-bottom: 2rem;
+}
+.our-text1{
+    color: #BDBDBD;
+    font-family:"Roboto", serif ;
+    font-size:64px ;
+    font-weight:300 ;
+}
+.our-text2{
+    color: #333333;
+    font-family: "Roboto", serif;
+    font-size:64px ;
+    font-weight:700 ;
+}
+.project-two{
+    display: flex;
+    padding-left: 5rem;
+    padding-right: 10rem;
+    gap: 2rem;
+    background-color: #FBFBFB;
+    margin-bottom: 3rem;
+}
+.sample-two{
+    margin: 1rem;
+    margin-bottom:5rem ;
+    font-family: Roboto;
+    font-size: 38px;
+    font-weight: 300;
+    line-height: 46.88px;
+    text-align: left;
+    height: 47px;
+    color: #BDBDBD;
+}
+.text-two{
+    margin: 1rem;
+    margin-bottom: 5rem;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+    text-align: left;
+}
+.project-three{
+    display: flex;
+    padding-left: 5rem;
+    padding-right: 10rem;
+    gap: 2rem;
+    background-color: #FBFBFB;
+}
+.sample-three{
+    margin: 1rem;
+    margin-bottom:5rem ;
+    font-family: Roboto;
+    font-size: 38px;
+    font-weight: 300;
+    line-height: 46.88px;
+    text-align: left;
+    height: 47px;
+    color: #BDBDBD;
+}
+.text-three{
+    margin: 1rem;
+    margin-bottom: 5rem;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+    text-align: left;
+}
+.arrow{
+    display: flex;
+    gap: 1rem;
+    padding-left: 5rem;
+    margin-top: 2rem;
+}
+.media{
+    margin-top: 7rem;
+    background-color: #2C2C2C;
+    display: flex;
+    padding-left: 5rem;
+    padding-top: 3rem;
+    gap: 6rem;
+    color: white;
+    height: 417px;
+}
+.social{
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}
